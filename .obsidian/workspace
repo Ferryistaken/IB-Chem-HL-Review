@@ -1,0 +1,110 @@
+{
+  "main": {
+    "id": "93b17d206939d7cf",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c8de81284c5f810",
+        "type": "leaf",
+        "dimension": 56.849666495638786,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Topics/Stoichiometric Relationships.md",
+            "mode": "source"
+          }
+        },
+        "group": "99ffc9b1f47efa67"
+      },
+      {
+        "id": "bc19958214a83d71",
+        "type": "leaf",
+        "dimension": 43.15033350436121,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Topics/Stoichiometric Relationships.md",
+            "mode": "preview"
+          }
+        },
+        "group": "99ffc9b1f47efa67"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "959a2c2df386a3ed",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ff14062ea81d06f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfd9dd3a020c2300",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "806190a45daf47fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 192
+  },
+  "right": {
+    "id": "19dac4a3c1a52702",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fefe6f59c0cff46",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c50774c7361a14e0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Topics/Stoichiometric Relationships.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254
+  },
+  "active": "7c8de81284c5f810",
+  "lastOpenFiles": [
+    "Topics/Stoichiometric Relationships.md",
+    "Paper 1 & Paper 2.md",
+    "Untitled.md",
+    "Stoichiometric Relationships.md"
+  ]
+}
