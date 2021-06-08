@@ -10,24 +10,41 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "Base Knowledge/Compounds.md",
             "mode": "source"
           }
         },
         "group": "99ffc9b1f47efa67"
       },
       {
-        "id": "bc19958214a83d71",
-        "type": "leaf",
+        "id": "662459b2d4f53f0d",
+        "type": "split",
         "dimension": 43.15033350436121,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "README.md",
-            "mode": "preview"
+        "children": [
+          {
+            "id": "bc19958214a83d71",
+            "type": "leaf",
+            "dimension": 64.3906020558003,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Base Knowledge/Compounds.md",
+                "mode": "preview"
+              }
+            },
+            "group": "99ffc9b1f47efa67"
+          },
+          {
+            "id": "e4991cdbd1a5157c",
+            "type": "leaf",
+            "dimension": 35.609397944199706,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        },
-        "group": "99ffc9b1f47efa67"
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -83,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Base Knowledge/Compounds.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,10 +119,13 @@
   },
   "active": "7c8de81284c5f810",
   "lastOpenFiles": [
-    "README.md",
+    "Base Knowledge/Compounds.md",
     "Topics/Stoichiometric Relationships.md",
+    "Base Knowledge/Elements.md",
+    "Base Knowledge/Atoms.md",
     "Paper 1 & Paper 2.md",
     "Untitled.md",
+    "README.md",
     "Stoichiometric Relationships.md"
   ]
 }
