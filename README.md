@@ -1,0 +1,2 @@
+# IB HL Review
+This is a repo of my review of all the topics needed for IB Paper 1 and Paper 2 of HL Chemistry. To see a more detailed list of topics, check out [this file](https://github.com/Ferryistaken/IB-Chem-HL-Review/blob/master/Paper%201%20%26%20Paper%202.md)
