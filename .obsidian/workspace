@@ -6,7 +6,7 @@
       {
         "id": "7c8de81284c5f810",
         "type": "leaf",
-        "dimension": 56.849666495638786,
+        "dimension": 57.3114417650077,
         "state": {
           "type": "markdown",
           "state": {
@@ -19,7 +19,7 @@
       {
         "id": "662459b2d4f53f0d",
         "type": "split",
-        "dimension": 43.15033350436121,
+        "dimension": 42.6885582349923,
         "children": [
           {
             "id": "bc19958214a83d71",
@@ -120,11 +120,11 @@
   "active": "7c8de81284c5f810",
   "lastOpenFiles": [
     "Base Knowledge/Compounds.md",
-    "Topics/Stoichiometric Relationships.md",
     "Base Knowledge/Elements.md",
+    "Untitled.md",
+    "Topics/Stoichiometric Relationships.md",
     "Base Knowledge/Atoms.md",
     "Paper 1 & Paper 2.md",
-    "Untitled.md",
     "README.md",
     "Stoichiometric Relationships.md"
   ]
