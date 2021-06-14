@@ -6,41 +6,85 @@
       {
         "id": "7c8de81284c5f810",
         "type": "leaf",
-        "dimension": 57.3114417650077,
+        "dimension": 46.907312240728125,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/Stoichiometric Relationships.md",
+            "file": "Base Knowledge/Chemical Equations.md",
             "mode": "source"
           }
         },
         "group": "99ffc9b1f47efa67"
       },
       {
-        "id": "662459b2d4f53f0d",
+        "id": "bc19958214a83d71",
+        "type": "leaf",
+        "dimension": 30.33867871958392,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base Knowledge/Chemical Equations.md",
+            "mode": "preview"
+          }
+        },
+        "group": "99ffc9b1f47efa67"
+      },
+      {
+        "id": "6bb932a456149b36",
         "type": "split",
-        "dimension": 42.6885582349923,
+        "dimension": 15.16933935979196,
         "children": [
           {
-            "id": "bc19958214a83d71",
+            "id": "607263b8415a3649",
             "type": "leaf",
-            "dimension": 64.3906020558003,
+            "dimension": 63.79435191889935,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Paper 1 & Paper 2.md",
+                "mode": "preview"
+              }
+            }
+          },
+          {
+            "id": "de4ec2aaae26fa2b",
+            "type": "leaf",
+            "dimension": 36.20564808110065,
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "direction": "horizontal"
+      },
+      {
+        "id": "b849061095cab9db",
+        "type": "split",
+        "dimension": 7.58466967989598,
+        "children": [
+          {
+            "id": "1c9e66e2fb7c27db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Topics/Stoichiometric Relationships.md",
+                "mode": "source"
+              }
+            }
+          },
+          {
+            "id": "373e2ab0da0dcf2e",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Topics/Stoichiometric Relationships.md",
                 "mode": "preview"
               }
-            },
-            "group": "99ffc9b1f47efa67"
-          },
-          {
-            "id": "e4991cdbd1a5157c",
-            "type": "leaf",
-            "dimension": 35.609397944199706,
-            "state": {
-              "type": "graph",
-              "state": {}
             }
           }
         ],
@@ -123,16 +167,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254
+    "width": 254,
+    "collapsed": true
   },
-  "active": "7c8de81284c5f810",
+  "active": "1c9e66e2fb7c27db",
   "lastOpenFiles": [
     "Topics/Stoichiometric Relationships.md",
+    "Paper 1 & Paper 2.md",
+    "Base Knowledge/Chemical Equations.md",
     "Base Knowledge/Elements.md",
     "Base Knowledge/Compounds.md",
-    "Untitled.md",
     "Base Knowledge/Atoms.md",
-    "Paper 1 & Paper 2.md",
+    "Untitled.md",
     "README.md",
     "Stoichiometric Relationships.md"
   ]
