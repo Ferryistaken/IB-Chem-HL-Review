@@ -4,40 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "7c8de81284c5f810",
-        "type": "leaf",
-        "dimension": 46.907312240728125,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base Knowledge/Chemical Equations.md",
-            "mode": "source"
-          }
-        },
-        "group": "99ffc9b1f47efa67"
-      },
-      {
-        "id": "bc19958214a83d71",
-        "type": "leaf",
-        "dimension": 30.33867871958392,
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Base Knowledge/Chemical Equations.md",
-            "mode": "preview"
-          }
-        },
-        "group": "99ffc9b1f47efa67"
-      },
-      {
-        "id": "6bb932a456149b36",
+        "id": "0bf883158dcca997",
         "type": "split",
-        "dimension": 15.16933935979196,
+        "dimension": 47.899952807928265,
         "children": [
           {
-            "id": "607263b8415a3649",
+            "id": "5ac122003ba8a893",
             "type": "leaf",
-            "dimension": 63.79435191889935,
             "state": {
               "type": "markdown",
               "state": {
@@ -47,48 +20,41 @@
             }
           },
           {
-            "id": "de4ec2aaae26fa2b",
+            "id": "a9b2b304074d6f27",
             "type": "leaf",
-            "dimension": 36.20564808110065,
-            "pinned": true,
             "state": {
               "type": "graph",
-              "state": {},
-              "pinned": true
+              "state": {}
             }
           }
         ],
         "direction": "horizontal"
       },
       {
-        "id": "b849061095cab9db",
-        "type": "split",
-        "dimension": 7.58466967989598,
-        "children": [
-          {
-            "id": "1c9e66e2fb7c27db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/Stoichiometric Relationships.md",
-                "mode": "source"
-              }
-            }
-          },
-          {
-            "id": "373e2ab0da0dcf2e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Topics/Stoichiometric Relationships.md",
-                "mode": "preview"
-              }
-            }
+        "id": "06581c2f4e9bcece",
+        "type": "leaf",
+        "dimension": 17.36668239735725,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base Knowledge/Molecular Formula.md",
+            "mode": "source"
           }
-        ],
-        "direction": "horizontal"
+        },
+        "group": "503b33ba7f05911e"
+      },
+      {
+        "id": "bdfe8ff74ed8da7c",
+        "type": "leaf",
+        "dimension": 34.7333647947145,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Base Knowledge/Molecular Formula.md",
+            "mode": "preview"
+          }
+        },
+        "group": "503b33ba7f05911e"
       }
     ],
     "direction": "vertical"
@@ -128,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 192
+    "width": 141
   },
   "right": {
     "id": "19dac4a3c1a52702",
@@ -144,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/Stoichiometric Relationships.md",
+                "file": "Base Knowledge/Molecular Formula.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,19 +133,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 254,
+    "width": 414,
     "collapsed": true
   },
-  "active": "1c9e66e2fb7c27db",
+  "active": "06581c2f4e9bcece",
   "lastOpenFiles": [
+    "Base Knowledge/Molecular Formula.md",
+    "Base Knowledge/Untitled.md",
+    "Base Knowledge/Molar Mass.md",
+    "Base Knowledge/Relative Formula Mass.md",
+    "Base Knowledge/Mole.md",
+    "Base Knowledge/Relative atomic mass.md",
     "Topics/Stoichiometric Relationships.md",
     "Paper 1 & Paper 2.md",
-    "Base Knowledge/Chemical Equations.md",
-    "Base Knowledge/Elements.md",
     "Base Knowledge/Compounds.md",
-    "Base Knowledge/Atoms.md",
-    "Untitled.md",
-    "README.md",
-    "Stoichiometric Relationships.md"
+    "Base Knowledge/Elements.md"
   ]
 }
