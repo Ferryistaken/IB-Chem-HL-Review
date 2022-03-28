@@ -1,6 +1,6 @@
 # Paper 1
 
-## Topics:
+## Chapters:
 - [[1-Stoichiometric Relationships]]
 -  [[2-Atomic Structure]]
 -  [[3-Periodicity]]

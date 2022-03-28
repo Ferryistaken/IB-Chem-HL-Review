@@ -4,13 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "4c6630c54613d4ae",
+        "id": "a9b8c1bea888d03f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Topics/7-Equilibrium/Equilibrium constant.md",
+            "file": "Topics/3-Periodicity.md",
             "mode": "source",
+            "backlinks": false,
             "source": false
           }
         }
@@ -53,15 +54,41 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275
+    "width": 270
   },
   "right": {
     "id": "19dac4a3c1a52702",
     "type": "split",
     "children": [
       {
+        "id": "28a0d890daa41667",
+        "type": "tabs",
+        "dimension": 25.693430656934304,
+        "children": [
+          {
+            "id": "35081fe14b66460b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Topics/3-Periodicity.md"
+              }
+            }
+          },
+          {
+            "id": "fb3178e853d8a6df",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
         "id": "4fefe6f59c0cff46",
         "type": "tabs",
+        "dimension": 45.32846715328467,
         "children": [
           {
             "id": "c50774c7361a14e0",
@@ -69,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Topics/7-Equilibrium/Equilibrium constant.md",
+                "file": "Topics/3-Periodicity.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -79,12 +106,19 @@
                 "unlinkedCollapsed": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1e190090325905d9",
+        "type": "tabs",
+        "dimension": 28.978102189781016,
+        "children": [
           {
-            "id": "3ffcafb36aa8edab",
+            "id": "4c6630c54613d4ae",
             "type": "leaf",
             "state": {
-              "type": "calendar",
+              "type": "graph",
               "state": {}
             }
           }
@@ -92,19 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414
+    "width": 470
   },
-  "active": "4c6630c54613d4ae",
+  "active": "a9b8c1bea888d03f",
   "lastOpenFiles": [
-    "Topics/7-Equilibrium/Equilibrium constant.md",
-    "Topics/7-Equilibrium.md",
-    "Topics/7-Equilibrium/Equilibrium.md",
-    "Topics/7-Equilibrium/Equilibrium law.md",
-    "Topics/7-Equilibrium/Rates of Reaction.md",
-    "Topics/7-Equilibrium/Rates of reaction.md",
+    "Topics/3-Periodicity.md",
+    "Topics/3-Periodicity/Ligands.md",
+    "Topics/6-Chemical kinetics.md",
+    "Topics/5-Energetics and thermochemistry.md",
+    "Topics/4-Chemical Bonding and Structure.md",
+    "Topics/2-Atomic Structure.md",
     "Topics/1-Stoichiometric Relationships.md",
-    "README.md",
     "Paper 1 & Paper 2.md",
-    "Topics/9-Redox Process.md"
+    "Spaced Repetition List.md",
+    "Topics/3-Periodicity/Atomic radii.md"
   ]
 }
